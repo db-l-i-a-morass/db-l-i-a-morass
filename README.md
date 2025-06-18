@@ -1,3 +1,5 @@
+<hr style="height: 1px; background-color: red; border: none;">
+
 <hr style="height: 0.3px; background-color: #222; border: none; margin: 10px auto;">
 <p align="center">
   <img src="https://sun9-6.userapi.com/impg/Iw55K2hQiuUlo66TqIK3R67cfFhaidZ_L-4Q3w/55UZlr5mgAo.jpg?size=980x650&quality=95&sign=e3f13ecb0bc2d8c698b4d62a7b507a8e&type=album"> 
