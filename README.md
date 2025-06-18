@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://sun9-26.userapi.com/impg/jCY-v_gEdlg0jSPAJWAPT4CgslfI_ZSo8fFjew/VU2YaKX8jHg.jpg?size=288x192&quality=95&sign=7ea8fe4e88ab0ec9ebe3e43af092b61c&type=album"> 
-<p>
+
 
 <p align="center">
   <img src="https://sun9-6.userapi.com/impg/Iw55K2hQiuUlo66TqIK3R67cfFhaidZ_L-4Q3w/55UZlr5mgAo.jpg?size=980x650&quality=95&sign=e3f13ecb0bc2d8c698b4d62a7b507a8e&type=album"> 
@@ -20,7 +18,9 @@
   Не лезть в личнчку — я не ищу прямых знакомств<br>
   Если чёрный юмор и темы вроде секса вызывают у вас шок — лучше пройдите мимо, или я внесу пару психических травм.
 </p>
-
+<p align="center">
+  <img src="https://sun9-26.userapi.com/impg/jCY-v_gEdlg0jSPAJWAPT4CgslfI_ZSo8fFjew/VU2YaKX8jHg.jpg?size=288x192&quality=95&sign=7ea8fe4e88ab0ec9ebe3e43af092b61c&type=album"> 
+<p>
 
 
 <hr style="height: 1px; background-color: #ff4d4d; border: none;">
