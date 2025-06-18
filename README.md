@@ -11,7 +11,7 @@
   <img src="https://psv4.userapi.com/s/v1/d/5nrpCxo1YKSAhnUOA5PyimYNbB5W8-qxYqFqlsrue29XzEV4fJvI4MLSRztoUwtjAHS557GE15XhzTrkS3Tef2cQUAuSZTRcAiw-fy4SSPVqbArVur_AYQ/Blackcraft_Regular_400_3.png"> 
 <p>
 <p align="center">
-  <span style="color: red;">Сумасбродяще</span> 
+  <span style="color: red;">Сумасбродяще</span> <br>
   29.12.--<br>
   INTP<br>
   Не лезть в личнчку — я не ищу прямых знакомств<br>
