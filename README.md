@@ -1,4 +1,13 @@
-
+<svg width="160" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#007c6d"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect rx="6" width="160" height="40" fill="url(#bg)" />
+  <text x="80" y="26" fill="black" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">† MADLAD</text>
+</svg>
 <p align="center">
   <img src="https://sun9-6.userapi.com/impg/Iw55K2hQiuUlo66TqIK3R67cfFhaidZ_L-4Q3w/55UZlr5mgAo.jpg?size=980x650&quality=95&sign=e3f13ecb0bc2d8c698b4d62a7b507a8e&type=album"> 
 <p>
