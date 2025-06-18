@@ -1,13 +1,4 @@
-<svg width="160" height="40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#007c6d"/>
-      <stop offset="100%" stop-color="#ffffff"/>
-    </linearGradient>
-  </defs>
-  <rect rx="6" width="160" height="40" fill="url(#bg)" />
-  <text x="80" y="26" fill="black" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">† MADLAD</text>
-</svg>
+
 <p align="center">
   <img src="https://sun9-6.userapi.com/impg/Iw55K2hQiuUlo66TqIK3R67cfFhaidZ_L-4Q3w/55UZlr5mgAo.jpg?size=980x650&quality=95&sign=e3f13ecb0bc2d8c698b4d62a7b507a8e&type=album"> 
 <p>
@@ -18,7 +9,9 @@
 <p align="center">
   <img src="https://psv4.userapi.com/s/v1/d/5nrpCxo1YKSAhnUOA5PyimYNbB5W8-qxYqFqlsrue29XzEV4fJvI4MLSRztoUwtjAHS557GE15XhzTrkS3Tef2cQUAuSZTRcAiw-fy4SSPVqbArVur_AYQ/Blackcraft_Regular_400_3.png"> 
 <p>
-<img src="https://img.shields.io/badge/%E2%80%A0-MADLAD-white?style=for-the-badge&labelColor=1E1E1E&color=007c6d" alt="madlad badge">
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%80%A0-MADLAD-white?style=for-the-badge&labelColor=1E1E1E&color=007c6d" alt="madlad badge">
+<p>
 <p align="center">
   <span style="color: red;"></span> <br>
   29.12.05<br>
