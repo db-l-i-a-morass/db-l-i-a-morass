@@ -6,7 +6,9 @@
 <p>
 
 <hr style="height: 3px; background-color: #ff4d4d; border: none;">
-
+<p align="center">
+  <img src="https://psv4.userapi.com/s/v1/d/ormjAuTZLHLM7udUFV-oVpNm1gBFCxmzF-oqA809d9w7Ls2AodFGEO2E1tRsh349ZFrpE1dCdN5y1hkgnxgczUas-JgSkpboZK6FGcBxj7xJVUyqfSPY_Q/Blackcraft_Regular_400_1.png"> 
+<p>
 <p align="center">
   <span style="color: red;">Омут</span> Сумасбродяще<br>
   29.12.--<br>
