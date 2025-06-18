@@ -1,4 +1,4 @@
-<hr style="height: 8px; background-color: #ff4d4d; border: none;">
+
 <p align="center">
   <img src="https://sun9-6.userapi.com/impg/Iw55K2hQiuUlo66TqIK3R67cfFhaidZ_L-4Q3w/55UZlr5mgAo.jpg?size=980x650&quality=95&sign=e3f13ecb0bc2d8c698b4d62a7b507a8e&type=album"> 
 <p>
