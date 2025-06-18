@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://psv4.userapi.com/s/v1/d/5nrpCxo1YKSAhnUOA5PyimYNbB5W8-qxYqFqlsrue29XzEV4fJvI4MLSRztoUwtjAHS557GE15XhzTrkS3Tef2cQUAuSZTRcAiw-fy4SSPVqbArVur_AYQ/Blackcraft_Regular_400_3.png"> 
 <p>
-![Сумасброд](https://img.shields.io/badge/%E2%80%A0%20СУМАСБРОД-white?style=for-the-badge&labelColor=1E1E1E&color=808080)
+<img src="https://img.shields.io/badge/%E2%80%A0-MADLAD-white?style=for-the-badge&labelColor=1E1E1E&color=007c6d" alt="madlad badge">
 <p align="center">
   <span style="color: red;"></span> <br>
   29.12.05<br>
