@@ -6,13 +6,12 @@
 <p>
 
 <hr style="height: 3px; background-color: #ff4d4d; border: none;">
-<p align="center">
-  <img src="https://psv4.userapi.com/s/v1/d/k-mv-sp3Kr1hJgAeWbyAH-7ATgzA3pD9Hb7MJxfeTox3YF0x403VymZO_jKZIXlBIY6xZghcb0b76Bs03ZY6UpdniOB_XszMXF11wThRJ0n8h8F8WnG5qw/Blackcraft_Regular_400_2.png"> 
+
 <p align="center">
   <img src="https://psv4.userapi.com/s/v1/d/5nrpCxo1YKSAhnUOA5PyimYNbB5W8-qxYqFqlsrue29XzEV4fJvI4MLSRztoUwtjAHS557GE15XhzTrkS3Tef2cQUAuSZTRcAiw-fy4SSPVqbArVur_AYQ/Blackcraft_Regular_400_3.png"> 
 <p>
 <p align="center">
-  <span style="color: red;">Омут</span> Сумасбродяще<br>
+  <span style="color: red;">Сумасбродяще</span> 
   29.12.--<br>
   INTP<br>
   Не лезть в личнчку — я не ищу прямых знакомств<br>
