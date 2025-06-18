@@ -1,4 +1,7 @@
-<img src="https://sun9-4.userapi.com/impg/FDVtQ7toNgAhzIKKqCf6O89FWtRV7tRV7vkcWwpu5g/SXVXljMOBX0.jpg?size=564x376&quality=95&sign=050e4d917f9785dd93f5ccdec27099b9&type=album" width="282" height="188" />
+<p align="center">
+  <img src="https://sun9-26.userapi.com/impg/jCY-v_gEdlg0jSPAJWAPT4CgslfI_ZSo8fFjew/VU2YaKX8jHg.jpg?size=288x192&quality=95&sign=7ea8fe4e88ab0ec9ebe3e43af092b61c&type=album"> 
+<p>
+
 <p align="center">
   <img src="https://sun9-6.userapi.com/impg/Iw55K2hQiuUlo66TqIK3R67cfFhaidZ_L-4Q3w/55UZlr5mgAo.jpg?size=980x650&quality=95&sign=e3f13ecb0bc2d8c698b4d62a7b507a8e&type=album"> 
 <p>
