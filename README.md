@@ -1,4 +1,4 @@
-
+<hr style="border: none; border-top: 0.5px solid #222; margin: 10px auto;">
 
 <hr style="height: 0.3px; background-color: #222; border: none; margin: 10px auto;">
 <p align="center">
