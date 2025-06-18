@@ -8,7 +8,7 @@
 <hr style="height: 3px; background-color: #ff4d4d; border: none;">
 
 <p align="center">
-  Омут Сумасбродяще<br>
+  <span style="color: red;">Омут</span> Сумасбродяще<br>
   29.12.--<br>
   INTP<br>
   Не лезть в личнчку — я не ищу прямых знакомств<br>
