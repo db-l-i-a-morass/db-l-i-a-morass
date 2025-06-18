@@ -5,7 +5,7 @@
 
 <hr style="height: 3px; background-color: #ff4d4d; border: none;">
 
-<pre> 
+
 <p align="center">
   <img src="https://psv4.userapi.com/s/v1/d/5nrpCxo1YKSAhnUOA5PyimYNbB5W8-qxYqFqlsrue29XzEV4fJvI4MLSRztoUwtjAHS557GE15XhzTrkS3Tef2cQUAuSZTRcAiw-fy4SSPVqbArVur_AYQ/Blackcraft_Regular_400_3.png"> 
 <p>
@@ -16,7 +16,7 @@
   Не лезть в личнчку — я не ищу прямых знакомств<br>
   Если чёрный юмор и темы вроде секса вызывают у вас шок — лучше пройти мимо, или я внесу пару психических травм.
 </p>
-</pre>
+
 
 
 <hr style="height: 1px; background-color: #ff4d4d; border: none;">
