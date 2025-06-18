@@ -1,4 +1,4 @@
-<hr style="border: none; border-top: 0.5px solid #222; margin: 10px auto;">
+
 
 <hr style="height: 0.3px; background-color: #222; border: none; margin: 10px auto;">
 <p align="center">
@@ -19,6 +19,8 @@
 </p>
 
 <hr style="height: 1px; background-color: #ff4d4d; border: none;">
+
+**мммм**
 
 <p align="center">
   <img src="https://sun9-74.userapi.com/impg/fhdsOQLQKS6udAGT7a1UfYBT9KHyYCvgpUB1nA/v1Dlvi4S5OU.jpg?size=1280x711&quality=95&sign=1a815208b956078ff3017d1574d02085&type=album"> 
