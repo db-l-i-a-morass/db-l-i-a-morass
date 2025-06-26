@@ -44,7 +44,7 @@
 
 <img src="https://psv4.userapi.com/s/v1/d2/EjDC93krls_dGxIeZl0AkjD9V3UcCMxOSKxNoj54MWEky3tzy31kOY7x9h7JowQLyoJLtzhhlQym3zLqlD-a7eSPLqBY7KWaY7wkO3Ewe6jwrsfL5h1qKHIBxTH1DvfhkX4v8uz7cAqr/Ghastly_Panic_Cyr_Regular_400.png"> 
 постапокалиптический мир, где сама реальность искажается в логике мира. Потом ткань самой реальности начала прорастать плотью. Всё, что было твердым, стало мягким. Всё, что было мёртвым — стало дышать. Всё привычное стало чуждым.
-(вдохновлённый катастрофа Чернобыля, Сталкером, Метро 2033 и Аннигиляцией)
+(вдохновлён катастрофой Чернобыля, Сталкером, Метро 2033 и Аннигиляцией)
 <p>
 <p align="center">
   <img src="https://sun9-56.userapi.com/s/v1/ig2/Iqo1lAaXEyrN3HoSQ0PVXY9tk05HimKc6uhg6i8uIESI_SYctqiOYdzuf3h6gdr5YlPiwF95JQ-4cHH_KTTikj7W.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,192x192&from=bu&cs=192x0"> 
