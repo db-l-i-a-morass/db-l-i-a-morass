@@ -43,7 +43,9 @@
 <img src="https://sun9-34.userapi.com/s/v1/ig2/o3VGyq2WcEcZpBrM2Dh3DjhjPYuH_5Wn4TMKM2D3t7yFlS-dYBS1JNIMOnDsHnVB4ni_VsXCxAG_MAzdLJSNsfEi.jpg?quality=95&as=32x38,48x58,72x86,108x130,160x192&from=bu&cs=160x0"> 
 <img src="https://sun9-13.userapi.com/s/v1/ig2/Q-UgvFTAT_Y-IhynGkGWrn23zkKhZxFljyZrZpEqZzJvEhaMRozEnxhmdI3979Q3MKFPK4wVz3I70tOxP8NN00Kt.jpg?quality=95&as=32x40,48x60,72x90,108x136,153x192&from=bu&cs=153x0"> 
 <p>
-
+<p align="center">
+  <img src="https://sun9-41.userapi.com/s/v1/if2/lO50aO_xabYXsIb8n2QuQrcI2JeT2V4twe6yNGqo7fYj8mFkgqqgJwqGAvqTdewl60jfDoemeSXAvyh00eX45du-.jpg?quality=95&as=32x31,48x47,72x71,108x106,160x157,240x236,360x354,480x472,540x531,640x630,720x708,736x724&from=bu&cs=736x0"> 
+<p>
 
 <img src="https://psv4.userapi.com/s/v1/d2/EjDC93krls_dGxIeZl0AkjD9V3UcCMxOSKxNoj54MWEky3tzy31kOY7x9h7JowQLyoJLtzhhlQym3zLqlD-a7eSPLqBY7KWaY7wkO3Ewe6jwrsfL5h1qKHIBxTH1DvfhkX4v8uz7cAqr/Ghastly_Panic_Cyr_Regular_400.png"> 
 постапокалиптический мир, где сама реальность искажается в логике мира. Потом ткань самой реальности начала прорастать плотью. Всё, что было твердым, стало мягким. Всё, что было мёртвым — стало дышать. Всё привычное стало чуждым.
