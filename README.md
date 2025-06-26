@@ -36,6 +36,13 @@
 <img src="https://psv4.userapi.com/s/v1/d2/ANrrQ9lZrnnEb6j2FC5xZXlU01hKdvLeWCKVVEMFmuZo1ywMc4t2g-77hn9x6WWM3QFh8Yu7I3xWeUsNiV5qV-KhWlsOaQCb0lbCCHiaaAij68z6m0GDNL065W-WoWox43gHz1qHV0LW/Blackcraft_Regular_400_4.png"> 
 мир, где духи и невидимые сущности сосуществуют с людьми, скрываясь за завесой обыденности. Иногда она рвётся — и тогда границы между видимым и тайным стираются.
 <p>
+<p align="center">
+  <img src="https://sun9-59.userapi.com/s/v1/if2/e3gUxwEhjC24_I2xH1xGiPMymnVjBTTt85SNvDfnU03U9Xs8mBhTpqn6q8u4pFOPCGZlbtOjaIUnCTuM3MYyrhkJ.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,256x192&from=bu&cs=256x0"> 
+<img src="https://sun9-78.userapi.com/s/v1/ig2/L5lJbGe9IoTvjyNXGeGvjvSQnGFMK2PEzJbPNk31D5z7uovWT4PBgjrGNpmTF4Xo-JidkjkLklxMc8c90dS0Buf3.jpg?quality=95&as=32x33,48x49,72x74,108x110,160x163,188x192&from=bu&cs=188x0"> 
+<img src="https://sun9-21.userapi.com/s/v1/ig2/qWhG5wUtfNripbRg8hm6pRUZAbBt9uS8PE7VwJRFhNf4dgna3svTvjFKRxQyEP2RdWOK_vwSd1mYh92YZTYrzJI-.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,192x192&from=bu&cs=192x0"> 
+<img src="https://sun9-34.userapi.com/s/v1/ig2/o3VGyq2WcEcZpBrM2Dh3DjhjPYuH_5Wn4TMKM2D3t7yFlS-dYBS1JNIMOnDsHnVB4ni_VsXCxAG_MAzdLJSNsfEi.jpg?quality=95&as=32x38,48x58,72x86,108x130,160x192&from=bu&cs=160x0"> 
+<img src="https://sun9-13.userapi.com/s/v1/ig2/Q-UgvFTAT_Y-IhynGkGWrn23zkKhZxFljyZrZpEqZzJvEhaMRozEnxhmdI3979Q3MKFPK4wVz3I70tOxP8NN00Kt.jpg?quality=95&as=32x40,48x60,72x90,108x136,153x192&from=bu&cs=153x0"> 
+<p>
 
 
 <img src="https://psv4.userapi.com/s/v1/d2/EjDC93krls_dGxIeZl0AkjD9V3UcCMxOSKxNoj54MWEky3tzy31kOY7x9h7JowQLyoJLtzhhlQym3zLqlD-a7eSPLqBY7KWaY7wkO3Ewe6jwrsfL5h1qKHIBxTH1DvfhkX4v8uz7cAqr/Ghastly_Panic_Cyr_Regular_400.png"> 
