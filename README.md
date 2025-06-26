@@ -20,7 +20,7 @@
   Те, кто обижается на прямоту или сам не умеет говорить прямо, и если <strong>чёрный юмор</strong> и темы вроде <strong>секса</strong> вызывают у вас <strong>шок</strong> — <strong>лучше пройдите мимо</strong>.
 </p>
 
-</p>
+
 <p align="center">
   <img src="https://sun9-26.userapi.com/impg/jCY-v_gEdlg0jSPAJWAPT4CgslfI_ZSo8fFjew/VU2YaKX8jHg.jpg?size=288x192&quality=95&sign=7ea8fe4e88ab0ec9ebe3e43af092b61c&type=album"> 
 <p>
