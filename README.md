@@ -33,11 +33,13 @@
  
 
 <p align="center">
-  <img src="https://psv4.userapi.com/s/v1/d2/ANrrQ9lZrnnEb6j2FC5xZXlU01hKdvLeWCKVVEMFmuZo1ywMc4t2g-77hn9x6WWM3QFh8Yu7I3xWeUsNiV5qV-KhWlsOaQCb0lbCCHiaaAij68z6m0GDNL065W-WoWox43gHz1qHV0LW/Blackcraft_Regular_400_4.png"> мир, где духи и невидимые сущности сосуществуют с людьми, скрываясь за завесой обыденности. Иногда она рвётся — и тогда границы между видимым и тайным стираются.
+  <img src="https://psv4.userapi.com/s/v1/d2/ANrrQ9lZrnnEb6j2FC5xZXlU01hKdvLeWCKVVEMFmuZo1ywMc4t2g-77hn9x6WWM3QFh8Yu7I3xWeUsNiV5qV-KhWlsOaQCb0lbCCHiaaAij68z6m0GDNL065W-WoWox43gHz1qHV0LW/Blackcraft_Regular_400_4.png"> 
+мир, где духи и невидимые сущности сосуществуют с людьми, скрываясь за завесой обыденности. Иногда она рвётся — и тогда границы между видимым и тайным стираются.
 <p>
 
 <p align="center">
-  <img src="https://psv4.userapi.com/s/v1/d2/EjDC93krls_dGxIeZl0AkjD9V3UcCMxOSKxNoj54MWEky3tzy31kOY7x9h7JowQLyoJLtzhhlQym3zLqlD-a7eSPLqBY7KWaY7wkO3Ewe6jwrsfL5h1qKHIBxTH1DvfhkX4v8uz7cAqr/Ghastly_Panic_Cyr_Regular_400.png"> постапокалиптический мир, где сама реальность искажается в логике мира. Потом ткань самой реальности начала прорастать плотью. Всё, что было твердым, стало мягким. Всё, что было мёртвым — стало дышать. Всё привычное стало чуждым.
+  <img src="https://psv4.userapi.com/s/v1/d2/EjDC93krls_dGxIeZl0AkjD9V3UcCMxOSKxNoj54MWEky3tzy31kOY7x9h7JowQLyoJLtzhhlQym3zLqlD-a7eSPLqBY7KWaY7wkO3Ewe6jwrsfL5h1qKHIBxTH1DvfhkX4v8uz7cAqr/Ghastly_Panic_Cyr_Regular_400.png"> 
+постапокалиптический мир, где сама реальность искажается в логике мира. Потом ткань самой реальности начала прорастать плотью. Всё, что было твердым, стало мягким. Всё, что было мёртвым — стало дышать. Всё привычное стало чуждым.
 <p>
 
 <hr style="height: 1px; background-color: #ff4d4d; border: none;">
