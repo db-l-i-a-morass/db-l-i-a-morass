@@ -30,7 +30,7 @@
 <p align="center">
   <span style="color: red;"></span> <br>
   Так же я работаю над развитием собственного сеттинга, включающего в себя несколько миров.
- 
+<p>
 
 
 <img src="https://psv4.userapi.com/s/v1/d2/ANrrQ9lZrnnEb6j2FC5xZXlU01hKdvLeWCKVVEMFmuZo1ywMc4t2g-77hn9x6WWM3QFh8Yu7I3xWeUsNiV5qV-KhWlsOaQCb0lbCCHiaaAij68z6m0GDNL065W-WoWox43gHz1qHV0LW/Blackcraft_Regular_400_4.png"> 
