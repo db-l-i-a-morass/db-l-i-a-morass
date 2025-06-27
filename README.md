@@ -41,6 +41,7 @@
 <img src="https://sun9-78.userapi.com/s/v1/ig2/L5lJbGe9IoTvjyNXGeGvjvSQnGFMK2PEzJbPNk31D5z7uovWT4PBgjrGNpmTF4Xo-JidkjkLklxMc8c90dS0Buf3.jpg?quality=95&as=32x33,48x49,72x74,108x110,160x163,188x192&from=bu&cs=188x0">  
 <img src="https://sun9-34.userapi.com/s/v1/ig2/o3VGyq2WcEcZpBrM2Dh3DjhjPYuH_5Wn4TMKM2D3t7yFlS-dYBS1JNIMOnDsHnVB4ni_VsXCxAG_MAzdLJSNsfEi.jpg?quality=95&as=32x38,48x58,72x86,108x130,160x192&from=bu&cs=160x0"> 
 <p>
+
 <h2 </h2>
 
 <img src="https://psv4.userapi.com/s/v1/d2/EjDC93krls_dGxIeZl0AkjD9V3UcCMxOSKxNoj54MWEky3tzy31kOY7x9h7JowQLyoJLtzhhlQym3zLqlD-a7eSPLqBY7KWaY7wkO3Ewe6jwrsfL5h1qKHIBxTH1DvfhkX4v8uz7cAqr/Ghastly_Panic_Cyr_Regular_400.png"> 
@@ -58,7 +59,4 @@
 <p align="center">
   <img src="https://sun9-74.userapi.com/impg/fhdsOQLQKS6udAGT7a1UfYBT9KHyYCvgpUB1nA/v1Dlvi4S5OU.jpg?size=1280x711&quality=95&sign=1a815208b956078ff3017d1574d02085&type=album"> 
 <p>
-
-
-<h2 </h2>
 
