@@ -11,8 +11,8 @@
   <img src="https://psv4.userapi.com/s/v1/d/5nrpCxo1YKSAhnUOA5PyimYNbB5W8-qxYqFqlsrue29XzEV4fJvI4MLSRztoUwtjAHS557GE15XhzTrkS3Tef2cQUAuSZTRcAiw-fy4SSPVqbArVur_AYQ/Blackcraft_Regular_400_3.png"> 
 <p>
 <p align="center">
-  <h3<span style="color: red;"></span> <br>
-  29.12.05<br>
+ <span style="color: red;"></span> <br>
+   <h3 29.12.05<br>
   ENTP</h3><br>
 <br>
   Могу быть временным собеседником, но прямых знакомств не ищу. У меня низкий уровень энергии и поэтому бысто устаю от общения, так что речи о дружбе быть не может.<br>
