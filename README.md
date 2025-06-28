@@ -29,9 +29,8 @@
 <hr style="height: 1px; background-color: #ff4d4d; border: none;">
 <p align="center">
  <h3 align="center">Так же я работаю над развитием несколько собственных сеттингов</h3><br>
-  
-<p>
-<br>
+<hr> 
+
 
 <img src="https://psv4.userapi.com/s/v1/d2/ANrrQ9lZrnnEb6j2FC5xZXlU01hKdvLeWCKVVEMFmuZo1ywMc4t2g-77hn9x6WWM3QFh8Yu7I3xWeUsNiV5qV-KhWlsOaQCb0lbCCHiaaAij68z6m0GDNL065W-WoWox43gHz1qHV0LW/Blackcraft_Regular_400_4.png"> 
 мир, где духи и невидимые сущности сосуществуют с людьми, скрываясь за завесой обыденности. Иногда она рвётся — и тогда границы между видимым и тайным стираются.
