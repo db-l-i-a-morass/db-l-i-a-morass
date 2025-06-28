@@ -27,7 +27,7 @@
 
 <hr style="height: 1px; background-color: #ff4d4d; border: none;">
 <p align="center">
- <h3 align="center">Так же я работаю над развитием несколько собственных сеттингов</h3>
+ <h4 align="center">Так же я работаю над развитием несколько собственных сеттингов</h4>
 
 
 
