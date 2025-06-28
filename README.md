@@ -11,9 +11,9 @@
   <img src="https://psv4.userapi.com/s/v1/d/5nrpCxo1YKSAhnUOA5PyimYNbB5W8-qxYqFqlsrue29XzEV4fJvI4MLSRztoUwtjAHS557GE15XhzTrkS3Tef2cQUAuSZTRcAiw-fy4SSPVqbArVur_AYQ/Blackcraft_Regular_400_3.png"> 
 <p>
 <p align="center">
-  <span style="color: red;"></span> <br>
+  <h3<span style="color: red;"></span> <br>
   29.12.05<br>
-  ENTP<br>
+  ENTP</h3><br>
 <br>
   Могу быть временным собеседником, но прямых знакомств не ищу. У меня низкий уровень энергии и поэтому бысто устаю от общения, так что речи о дружбе быть не может.<br>
  <p align="center">
@@ -29,8 +29,7 @@
 <hr style="height: 1px; background-color: #ff4d4d; border: none;">
 <p align="center">
  <h3 align="center">Так же я работаю над развитием несколько собственных сеттингов</h3>
-<p>
-<br>
+
 
 
 <img src="https://psv4.userapi.com/s/v1/d2/ANrrQ9lZrnnEb6j2FC5xZXlU01hKdvLeWCKVVEMFmuZo1ywMc4t2g-77hn9x6WWM3QFh8Yu7I3xWeUsNiV5qV-KhWlsOaQCb0lbCCHiaaAij68z6m0GDNL065W-WoWox43gHz1qHV0LW/Blackcraft_Regular_400_4.png"> 
