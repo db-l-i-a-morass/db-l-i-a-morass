@@ -61,4 +61,4 @@
 
 ...
 
-[соц.сети](https://example.com)
+[соц.сети](https://vk.com/from.morass)
