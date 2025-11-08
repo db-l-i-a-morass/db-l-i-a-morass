@@ -61,6 +61,4 @@
 
 ...
 
-[соц.сети](https://vk.com/from.morass)
 
-<a href="https://vk.com/from.morass">соц.сети</a>
